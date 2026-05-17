@@ -31,8 +31,8 @@ brew install npm
 pip3 install --upgrade pip
 pip3 install flask
 cd $HOME/
-git clone https://github.com/AndrewHazelden/NusionConverter.git
-cd $HOME/NusionConverter/
+git clone https://github.com/Lightfielder/NusionCompConverter.git)
+cd $HOME/NusionCompConverter/
 pip3 install -r requirements.txt
 ```
 
@@ -50,7 +50,7 @@ Activate the Python virtual environment and start the Flask app:
 
 ```bash
 source $HOME/nusion/bin/activate
-cd $HOME/NusionConverter/app
+cd $HOME/NusionCompConverter/app
 flask run
 ```
 
@@ -82,7 +82,7 @@ Let's package the flask based"app/app.py" file using pyinstaller:
 
 ```bash
 source $HOME/nusion/bin/activate
-cd $HOME/NusionConverter/
+cd $HOME/NusionCompConverter/
 pyinstaller NusionServer.spec
 ```
 
