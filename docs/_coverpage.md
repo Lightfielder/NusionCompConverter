@@ -8,4 +8,4 @@ It translates nodes and their attributes between Foundry's Nuke and Blackmagic D
 
 - (Scroll down for more info...)
 
-[GitHub](https://github.com/AndrewHazelden/NusionConverter)
+[GitHub](https://github.com/Lightfielder/NusionCompConverter)
