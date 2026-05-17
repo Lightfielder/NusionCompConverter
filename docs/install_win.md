@@ -34,8 +34,8 @@ Clone the repo, and install the dependencies using the Python pip package manage
 python -m pip install --upgrade pip
 pip install flask
 cd %USERPROFILE%
-git clone https://github.com/AndrewHazelden/NusionConverter.git
-cd %USERPROFILE%/NusionConverter/
+git clone https://github.com/Lightfielder/NusionCompConverter.git
+cd %USERPROFILE%/NusionCompConverter/
 pip install -r requirements.txt
 ```
 
@@ -47,7 +47,7 @@ Activate the Python virtual environment and start the Flask app:
 
 ```bash
 %USERPROFILE%/nusion/Scripts/activate.bat
-cd %USERPROFILE%/NusionConverter/app
+cd %USERPROFILE%/NusionCompConverter/app
 flask run
 ```
 
@@ -81,7 +81,7 @@ Let's package the flask based"app/app.py" file using pyinstaller:
 
 ```bash
 %USERPROFILE%/nusion/Scripts/activate.bat
-cd %USERPROFILE%/NusionConverter/
+cd %USERPROFILE%/NusionCompConverter/
 pyinstaller NusionServer.spec
 ```
 
