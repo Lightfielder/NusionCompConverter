@@ -67,4 +67,4 @@ The Nusion Web app was created by Jonty Pressinger. The Nusion integration for F
 
 ## For More Info
 
-For Nusion installation and usage details check out the [Nusion Documention Site](https://andrewhazelden.github.io/NusionConverter/) or the "Install.md" file in the repository.
+For Nusion installation and usage details check out the [Nusion Documention Site](https://lightfielder.github.io/NusionCompConverter/) or the "Install.md" file in the repository.
